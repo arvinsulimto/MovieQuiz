@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieQuiz</string>
+    <string name="content_description_poster">Image View Poster</string>
+</resources>
